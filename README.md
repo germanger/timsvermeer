@@ -6,7 +6,6 @@ Android app that simulates the device used in the movie Tim's Vermeer
 - Horizontal crop of the photo, with a SeekBar
 
 ## TO-DO's
-- Focus camera
 - Rotate image
 - Move image
 - Scale image
