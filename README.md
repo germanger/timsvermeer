@@ -5,6 +5,13 @@ Android app that simulates the device used in the movie Tim's Vermeer
 - Change opacity of the photo, with a SeekBar
 - Horizontal crop of the photo, with a SeekBar
 
+## TO-DO's
+- Focus camera
+- Rotate image
+- Move image
+- Scale image
+- Fix crash when resuming the app
+
 ## Screenshots
 
 ### Opacity
