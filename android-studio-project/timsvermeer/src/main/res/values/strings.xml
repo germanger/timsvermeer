@@ -2,4 +2,6 @@
     <string name="app_name">Tims Vermeer</string>
     <string name="choose_photo">Choose photo...</string>
     <string name="focus_camera">Focus camera</string>
+    <string name="rotate_photo">Rotate photo</string>
+    <string name="scale_photo">Scale photo</string>
 </resources>

@@ -5,4 +5,12 @@
     <item
         android:id="@+id/action_focusCamera"
         android:title="@string/focus_camera" />
+
+    <item
+        android:id="@+id/action_scalePhoto"
+        android:title="@string/scale_photo" />
+
+    <item
+        android:id="@+id/action_rotatePhoto"
+        android:title="@string/rotate_photo" />
 </menu>
