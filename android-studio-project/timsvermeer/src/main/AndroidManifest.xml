@@ -21,6 +21,7 @@
             </intent-filter>
         </activity>
         <activity android:name="cl.manger.timsvermeer.CameraActivity" android:screenOrientation="landscape"></activity>
+        <!-- <activity android:name="cl.manger.timsvermeer.CameraActivity"></activity> -->
     </application>
 
 </manifest>

@@ -7,6 +7,10 @@
         android:title="@string/focus_camera" />
 
     <item
+        android:id="@+id/action_vermeer"
+        android:title="@string/vermeer" />
+
+    <item
         android:id="@+id/action_scalePhoto"
         android:title="@string/scale_photo" />
 

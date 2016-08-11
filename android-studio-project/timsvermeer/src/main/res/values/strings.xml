@@ -4,4 +4,6 @@
     <string name="focus_camera">Focus camera</string>
     <string name="rotate_photo">Rotate photo</string>
     <string name="scale_photo">Scale photo</string>
+    <string name="vermeer">Vermeer</string>
+    <string name="opacity">Opacity</string>
 </resources>

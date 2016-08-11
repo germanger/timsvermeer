@@ -57,7 +57,5 @@ public class MySurfaceView extends SurfaceView implements SurfaceHolder.Callback
 
     @Override
     public void surfaceDestroyed(SurfaceHolder surfaceHolder) {
-        camera.stopPreview();
-        camera.release();
     }
 }
